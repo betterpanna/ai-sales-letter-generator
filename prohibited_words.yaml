@@ -1,0 +1,23 @@
+prohibited_words:
+  - "guarantee"
+  - "promise"
+  - "best"
+  - "number one"
+  - "top"
+  - "cheap"
+  - "free"
+  - "discount"
+  - "limited time"
+  - "act now"
+
+replacements:
+  "guarantee": "assurance"
+  "promise": "commitment"
+  "best": "excellent"
+  "number one": "highly effective"
+  "top": "premium"
+  "cheap": "affordable"
+  "free": "complimentary"
+  "discount": "special offer"
+  "limited time": "available for a short period"
+  "act now": "get started"

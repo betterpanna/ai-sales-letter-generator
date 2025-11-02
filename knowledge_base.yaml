@@ -1,0 +1,51 @@
+knowledge_items:
+  - id: "k001"
+    title: "Pain-Agitation-Solution Framework"
+    tags: ["framework", "structure", "psychology"]
+    content: |
+      The PAS framework involves:
+      1. Identify the PAIN point
+      2. AGITATE the pain to create urgency
+      3. Present the SOLUTION
+      This triggers emotional response and action.
+
+  - id: "k002"
+    title: "AIDA Model"
+    tags: ["framework", "marketing", "conversion"]
+    content: |
+      AIDA stands for:
+      - Attention: Grab with compelling headline
+      - Interest: Build curiosity and relevance
+      - Desire: Create emotional connection
+      - Action: Clear call-to-action
+
+  - id: "k003"
+    title: "Power Words for Headlines"
+    tags: ["copywriting", "headlines", "psychology"]
+    content: |
+      Effective power words:
+      - Discover, Revolutionary, Breakthrough
+      - Instant, Easy, Simple
+      - Proven, Results, Success
+      - Secret, Little-Known, Insider
+
+  - id: "k004"
+    title: "Call-to-Action Best Practices"
+    tags: ["cta", "conversion", "action"]
+    content: |
+      Effective CTAs should:
+      - Use action-oriented verbs
+      - Create urgency without pressure
+      - Be specific and clear
+      - Offer clear value proposition
+
+  - id: "k005"
+    title: "Social Proof Elements"
+    tags: ["trust", "credibility", "testimonials"]
+    content: |
+      Types of social proof:
+      - Customer testimonials
+      - Case study results
+      - User statistics
+      - Expert endorsements
+      - Media mentions

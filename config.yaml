@@ -1,0 +1,12 @@
+app:
+  name: "AI Sales Letter Generator"
+  description: "Generate high-converting sales letters in 3 easy steps"
+  max_generation_time: 30
+
+generation:
+  default_tone: "professional"
+  available_tones: ["professional", "urgent", "friendly", "authoritative"]
+  max_length: 800
+
+ui:
+  steps: ["Product Details", "Target Audience", "Customization"]
